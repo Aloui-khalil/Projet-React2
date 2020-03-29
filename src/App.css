@@ -1,0 +1,123 @@
+.NavFelsa{
+  font-size: 22px;
+  font-family: Trebuchet MS, sans-serif;
+  font-weight:bold;
+  color: white;
+  margin-top: 9px;
+  margin-left: 6px;
+
+}
+
+.NavFelsa:hover{
+  text-shadow: 3px 3px black;
+  transition:  0.3s; 
+}
+
+#CartNav{
+  width: 70px;
+}
+#SignNav{
+  width: 40px;
+  margin-top:10px;
+}
+.DarkCarousell{
+  color: black!important;
+}
+.H2B{
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 50px;
+  font-weight:bold;
+  text-shadow:0.5px 4px darkgray;
+}
+
+
+#Adress{
+  text-decoration: none;
+  color: darkgray;
+}
+#Adress:hover{
+  text-decoration: underline;
+}
+#FlecheHaut{
+ margin-left: 30px;
+  width: 30px;
+}
+#FlecheHaut:hover{
+  opacity: 0.3;
+}
+
+#FlwUs{
+  padding-top: 10px;
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 17px;
+  color: white;
+  font-weight:bold;
+}
+
+.Final{
+background-color:313234;
+text-align: center;
+margin-right: 20px;
+color: darkgray;
+
+}
+#Finale{
+text-align: center;
+margin-bottom: 0;
+padding-bottom: 18px;
+color: darkgray;
+}
+.Rs{
+  width: 50px;
+  }
+  
+  .RSDIV{
+    background-color:313234;
+    color: darkgray;
+  }
+
+  .labelZina{
+    background-color: #3d3b3b!important;
+     border-color: #3d3b3b!important;
+  }
+  .linkZina{
+    text-decoration: none;
+    color:white;
+  }
+  .linkZina:hover{
+    text-decoration: none;
+    color: white;
+  }
+  .labelZina:hover{
+    background-color: #3d3b3b!important;
+     border-color: darkgray!important;
+  }
+
+  .Choose{
+    background-image: url("./Components/BackgrndImg.png")!important;
+
+  }  
+
+  .SuprA{
+    overflow: hidden;
+    transition: transform .5s ease;
+  }
+  
+  .SuprA:hover{
+    transform: scale(1.1);
+  }
+
+.gallery {
+  -webkit-column-count: 3;
+ -moz-column-count: 3;
+ column-count: 3;
+ -webkit-column-width: 33%;
+ -moz-column-width: 33%;
+ column-width: 33%; 
+}
+
+.img-fluid{
+ border: 1px solid rgb(201, 201, 201);
+ border-radius: 5px;
+}
+
